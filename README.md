@@ -21,3 +21,8 @@ Abstraction
 - natural extension of encapsulation
 - means that object should only expose high-level mechanism for using it
 - mechanism should hide internal implementation details
+
+
+# Inheritance VS Composition
+Inheritance -> IS A relationship (ex: CleanerRobot IS A Robot)
+Composition -> HAS A relationship (ex: Employee HAS A Salary)
