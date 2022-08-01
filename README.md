@@ -26,3 +26,5 @@ Abstraction
 # Inheritance VS Composition
 Inheritance -> IS A relationship (ex: CleanerRobot IS A Robot)
 Composition -> HAS A relationship (ex: Employee HAS A Salary)
+
+"Favor composition over inheritance"
