@@ -16,4 +16,12 @@
 #   2. False sense of security (when you've written lots of passing tests, you might neglect other tests ex: IT)
 #   3. If tests are written in the wrong way, implementation will also be wrong (and it is hard to find the error)
 # 
-
+#
+# 7 Testing Principles
+# 1. Testing shows the presence of defects, not their absence
+# 2. Exhaustive testing is impossible
+# 3. Early testing saves time and money
+# 4. Defects cluster together
+# 5. Beware of the pesticide paradox
+# 6. Testing is context dependent
+# 7. Absence of error fallacy
