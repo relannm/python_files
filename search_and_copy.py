@@ -2,9 +2,9 @@ import os
 import shutil
 
 # source directory
-src_dir = r"c:\svn\SW_VCC_PPDB\trunk\P519\\"
+src_dir = r"c:\source\\"
 # destination directory
-dst_dir = r"c:\Relan\Tasks\SPD_DevOps\test_files_svn\\"
+dst_dir = r"c:\destination\\"
 
 # file types to be moved
 xml_type = r".xml"
@@ -12,10 +12,10 @@ xls_type = r".xls"
 xlsm_type = r".xlsm"
 
 # file names (in any)
-swts = r"SWTS-SW-280-1186-1187-"
-swtr = r"SWTR-SW-282-1186-1187-"
-swits = r"SWITS-SW-270-1186-1187-"
-switr = r"SWITR-SW-272-1186-1187-"
+swts = r"filename_start1"
+swtr = r"filename_start2"
+swits = r"filename_start3"
+switr = r"filename_start4"
 
 
 copy_counter = 0
